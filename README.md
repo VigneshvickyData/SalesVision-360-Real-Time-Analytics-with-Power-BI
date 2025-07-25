@@ -53,7 +53,7 @@ BlinkIT manages diverse grocery outlets with large volumes of transaction data, 
 ![Power Query Screenshot](https://github.com/VigneshvickyData/Data_Branching/blob/main/PowerBI-S-1.png)
 
 ### 🔹 Power BI Desktop Page  
-![Power BI Desktop Screenshot](https://github.com/VigneshvickyData/Data_Branching/blob/main/PowerBI-S-3.png)
+![Power BI Desktop Screenshot](https://github.com/VigneshvickyData/Data_Branching/blob/main/PowerBI-S-2.png)
 
 ### 🔹 Power BI Dashboard  
 ![Power BI Dashboard Screenshot](https://github.com/VigneshvickyData/Data_Branching/blob/main/PowerBI-S-3.png)
